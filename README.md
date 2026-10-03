@@ -2,7 +2,7 @@
 
 # AMKKM Program Performance Dashboard
 
-<img src="assets/amkkm-program-performance-dashboard.png"
+<img src="assets/amkkm-region-performance.png"
      alt="AMKKM Program Performance Dashboard"
      width="100%"/>
 
